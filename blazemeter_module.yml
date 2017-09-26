@@ -1,0 +1,5 @@
+---
+modules:
+  blazemeter:
+    token: <Your BlazeMeter API Key>
+    test: <Test Name in BlazeMeter>
